@@ -575,7 +575,7 @@ INPUTBOX
 216
 522
 file-name
-my-data
+S6_LethalGeometry_verification
 1
 0
 String
@@ -692,7 +692,7 @@ LethalGeometry was developed to explore the relationship between the size of a t
 
 Territory sizes will fluctuate over time in response to individual reproduction, random-walking, and lethal intergroup encounters. In turn, the individuals within these territories are expected to vary in their mortality and fertility rates according to food availability and frequency of aggression.
 
-Provided that the individuals do not immediately die due to inhospitable settings, they will wander and reproduce, eventually taking up the entire simulation world. Individuals in smaller territories are expected to be more vulnerable to lethal aggression from indiviudals in larger neighboring territories. Over time, these aggressive interactions cause the smaller territories to go extinct. The GEOMETRIC RELATIONSHIP plot visually show this relationship between territory size and mortality risk. Eventally, only one territorial group remains. We can note in the WORLD AGGRESSION LEVEL plot that the number of groups present is often negatively correlated with population density, suggesting that individuals have higher survivability and/or reproduction when there are fewer enemy groups to contend with.
+Provided that the individuals do not immediately die due to inhospitable settings, they will wander and reproduce, eventually taking up the entire simulation world. Individuals in smaller territories are expected to be more vulnerable to lethal aggression from indiviudals in larger neighboring territories. Over time, these aggressive interactions cause the smaller territories to go extinct. The GEOMETRIC RELATIONSHIP plot visually show this relationship between territory size and mortality risk. Eventally, only one territorial group remains and we can note in the WORLD AGGRESSION LEVEL plot  the number of groups present is negatively correlated with population density, suggesting that individuals have higher survivability and/or reproduction when there are fewer enemy groups to contend with.
 
 ## THINGS TO TRY
 

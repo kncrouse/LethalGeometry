@@ -1,0 +1,167 @@
+VERIFICATION TEST if LethalGeometry - 07:22:53.724 PM 03-Feb-2021
+
+Number of trials: 10
+Simulation duration: 10 ticks
+
+
+SIMULATION TRIAL 1
+initial-number-of-groups: 1
+patch-growth-rate: 0.69
+movement-cost: 40
+aggression-cost: 55
+birth-cost: 5
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 2
+initial-number-of-groups: 39
+patch-growth-rate: 0.99
+movement-cost: 73
+aggression-cost: 96
+birth-cost: 72
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 3
+initial-number-of-groups: 29
+patch-growth-rate: 0.36
+movement-cost: 70
+aggression-cost: 91
+birth-cost: 84
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 4
+initial-number-of-groups: 32
+patch-growth-rate: 0.26
+movement-cost: 37
+aggression-cost: 11
+birth-cost: 68
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 5
+initial-number-of-groups: 15
+patch-growth-rate: 0.36
+movement-cost: 1
+aggression-cost: 43
+birth-cost: 87
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 6
+initial-number-of-groups: 37
+patch-growth-rate: 0.38
+movement-cost: 39
+aggression-cost: 56
+birth-cost: 36
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 7
+initial-number-of-groups: 11
+patch-growth-rate: 0.35
+movement-cost: 69
+aggression-cost: 95
+birth-cost: 27
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 8
+initial-number-of-groups: 31
+patch-growth-rate: 0.26
+movement-cost: 86
+aggression-cost: 85
+birth-cost: 35
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 9
+initial-number-of-groups: 31
+patch-growth-rate: 0.48
+movement-cost: 76
+aggression-cost: 21
+birth-cost: 81
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SIMULATION TRIAL 10
+initial-number-of-groups: 17
+patch-growth-rate: 0.75
+movement-cost: 22
+aggression-cost: 7
+birth-cost: 26
+
+false There are not any cells with agent occupants that does not associate with the group of one of the occupying agents?
+false There are not any agents that are set to give birth but do not have sufficient energy?
+false There are not any agents that are set to die but have energy greater than zero?
+false There are not any cells who are associated with a group that no longer exists?
+false There are not any agents marked as injured with no other agents in the same cell?
+false The number of periphery cells and the number of core cells equals the total number of cells present?
+false The number of agents who died from aggression and those who died from starvation equal total dead agents?
+
+
+SUCCESS PERCENT: 0%
