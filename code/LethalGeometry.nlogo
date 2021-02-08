@@ -460,7 +460,7 @@ birth-cost
 birth-cost
 0
 100
-9.0
+10.0
 1
 1
 NIL
@@ -486,7 +486,7 @@ aggression-cost
 aggression-cost
 0
 100
-7.0
+65.0
 1
 1
 NIL
@@ -501,7 +501,7 @@ cell-growth-rate
 cell-growth-rate
 0
 1
-0.68
+0.3
 .01
 1
 NIL
@@ -516,7 +516,7 @@ movement-cost
 movement-cost
 0
 100
-4.0
+1.0
 1
 1
 NIL
@@ -563,7 +563,7 @@ Population Density
 10.0
 0.0
 1.0
-false
+true
 false
 "" "if (count patches with [ cell-group = nobody ] < 1) [\n  plotxy count groups count individuals / count patches \n  plot-pen-down\n  plot-pen-up\n]"
 PENS
@@ -589,7 +589,7 @@ initial-number-of-groups
 initial-number-of-groups
 0
 10
-7.0
+10.0
 1
 1
 NIL
@@ -621,7 +621,7 @@ initial-group-size
 initial-group-size
 0
 100
-4.0
+5.0
 1
 1
 NIL
